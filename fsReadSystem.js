@@ -1,3 +1,5 @@
+//^ Leer contenido de archivos 
+
 const fs = require ("fs")
 console.log("fs", fs.readFile )
 
